@@ -1,3 +1,5 @@
+BIP-47 Payment Code: PM8TJP96d3SQmVb4x6kSvTkBdrcdvaSZahpHcaixDftNvT6Kt46rTVob2ZJCLM4q2zwv7exwDNfyydSxeMuEQFXfXw6dzLEozKP1R5KM2XL5CfTHpEVQ
+
 # A Cypherpunk's Manifesto
 
 ## Eric Hughes
